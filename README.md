@@ -1,5 +1,5 @@
 # Sistemas_operativos
-#Portafolio de tareas
+#Portafolio de tareas/evidencias
 
 Yoshua Leonardo Canche Ucan
 ___________________________
@@ -7,7 +7,7 @@ ___________________________
 
 -Instalar VirtualBox Y alguna distribucion de Linux
 
-Distribucion instalada Debian
+(Distribucion instalada Debian)
 <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Debian.png" target="_blank"> <img src="/Debian.png"/></a>  |
 _____________________________________________
 #Tarea 3 
