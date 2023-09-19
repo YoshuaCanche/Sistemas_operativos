@@ -20,6 +20,7 @@ Tarea #996
  <a href=" https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Menu%20ascii.png" target="_blank"> <img src="/Menu%20ascii.png"/></a>  |
 
 <a href="https://asciinema.org/a/tvlTVoWTlZTZmN3MQJiBHI2N1" target="_blank"><img src="https://asciinema.org/a/tvlTVoWTlZTZmN3MQJiBHI2N1.svg" /></a>
-__________________________________________________________-
+
+__________________________________________________________
 Tarea #995 Crear un gif que explique algún concepto, relacionado al curso, que hayas aprendido. 
-<a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Debian.png" target="_blank"> <img src="/Debian.png"/></a>  |
+<a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Debian.pnghttps://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Gif%20concepto.gif)https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Gif%20concepto.gif" target="_blank"> <img src="/Gif%20concepto.gif"/></a>  |
