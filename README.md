@@ -22,7 +22,7 @@ Tarea #996
 ______________________________________
 > [!NOTE]
 > El codigo del
-> <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/menu..txt" target="_blank">
+> <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/menu..txt" target="_blank">Menu</a> en un archivo TXT
 > 
 __________________________________________________________
 Tarea #995 Crear un gif que explique algún concepto, relacionado al curso, que hayas aprendido. 
