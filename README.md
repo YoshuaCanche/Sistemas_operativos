@@ -22,4 +22,4 @@ Tarea #996
 <a href="https://asciinema.org/a/tvlTVoWTlZTZmN3MQJiBHI2N1" target="_blank"><img src="https://asciinema.org/a/tvlTVoWTlZTZmN3MQJiBHI2N1.svg" /></a>
 __________________________________________________________-
 Tarea #995 Crear un gif que explique algún concepto, relacionado al curso, que hayas aprendido. 
-<a href="https://asciinema.org/a/tvlTVoWTlZTZmN3MQJiBHI2N1" target="_blank"><img src="https://asciinema.org/a/tvlTVoWTlZTZmN3MQJiBHI2N1.svg" /></a>
+<a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Debian.png" target="_blank"> <img src="/Debian.png"/></a>  |
