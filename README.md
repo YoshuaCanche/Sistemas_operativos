@@ -31,4 +31,6 @@ Tarea #995 Crear un gif que explique algún concepto, relacionado al curso, que 
 ____________________________
 ### Tarea #988
 Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia
+> <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Tarea%20%23988.pdf" target="_blank"> PDF </a>
+
 
