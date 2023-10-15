@@ -33,4 +33,10 @@ ____________________________
 Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia
 > <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Tarea%20%23988.pdf" target="_blank"> PDF </a>
 
+____________________________________
+
+### Tarea #987 
+Realizar el siguiente laboratorio durante la clase de hoy , en un PDF documentar con screenshots los resultados de sus comandos y las respuestas a sus preguntas. Subir el PDF a su repo.
+> <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Tarea%20%23997.pdf" target="_blank"> PDF </a>
+
 
