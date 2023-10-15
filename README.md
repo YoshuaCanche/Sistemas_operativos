@@ -21,6 +21,8 @@ Tarea #996
 <a href="https://asciinema.org/a/tvlTVoWTlZTZmN3MQJiBHI2N1" target="_blank"><img src="https://asciinema.org/a/tvlTVoWTlZTZmN3MQJiBHI2N1.svg" /></a>
 ______________________________________
 > [!NOTE]
+> > [!IMPORTANT]
+> Archivo
 > El codigo del
 > <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/menu..txt" target="_blank">Menu</a> en un archivo TXT
 > 
@@ -31,12 +33,17 @@ Tarea #995 Crear un gif que explique algún concepto, relacionado al curso, que 
 ____________________________
 ### Tarea #988
 Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia
+> [!IMPORTANT]
+> Archivo
+
 > <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Tarea%20%23988.pdf" target="_blank"> PDF </a>
 
 ____________________________________
 
 ### Tarea #987 
 Realizar el siguiente laboratorio durante la clase de hoy , en un PDF documentar con screenshots los resultados de sus comandos y las respuestas a sus preguntas. Subir el PDF a su repo.
+> [!IMPORTANT]
+> Archivo
 > <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Tarea%20%23997.pdf" target="_blank"> PDF </a>
 
 
