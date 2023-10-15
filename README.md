@@ -34,8 +34,7 @@ Realizar los rooms de Linux Fundamentals de tryhackme https://tryhackme.com/room
 
 | Linux  | Rooms  | 
 |---|---|
-| <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Linux.jpg" target="_blank"> <img src="/Linux.jpg" width="auto" height="auto"/></a> | 
-<a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Roomsactividad.png" target="_blank"> <img src="/Roomsactividad.png" width="auto" height="auto"/></a> |  
+| <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Linux.jpg" target="_blank"> <img src="/Linux.jpg" width="auto" height="auto"/></a> | <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Roomsactividad.png" target="_blank"> <img src="/Roomsactividad.png" width="auto" height="auto"/></a> |  
 _______________
 ### Tarea #988
 Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia.
