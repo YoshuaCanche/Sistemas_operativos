@@ -32,7 +32,6 @@ ____________________________
 ### Tarea #988
 Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia.
 > [!IMPORTANT]
-
 > <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Tarea%20%23988.pdf" target="_blank"> PDF </a>
 
 ____________________________________
