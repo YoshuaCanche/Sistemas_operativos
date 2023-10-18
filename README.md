@@ -39,6 +39,9 @@ _______________
 
 #####  Tarea 989 
 Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting
+
+<a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/roomtryhackme.png" target="_blank"> <img src="/roomtryhackme.png"/></a>  |
+
 ______________________________
 ### Tarea #988
 Realizar el siguiente ejercicio durante la clase de hoy, documentar los resultados en un PDF mediante screenshots y subir el PDF a su repositorio como evidencia.
