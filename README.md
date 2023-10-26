@@ -55,4 +55,13 @@ Realizar el siguiente laboratorio durante la clase de hoy , en un PDF documentar
 > [!IMPORTANT]
 > <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Tarea%20%23997.pdf" target="_blank"> PDF </a>
 
+#####  Tarea 986  💻
+- [x] Servidores
+  - SSH->Open SSh
+  - Web->Apache
+  - DB->MariaDB
+  - ProxyWeb->Squid
+  - Dns->Bind9
+<a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/Servidores.png" target="_blank"> <img src="/Servidores.png" width="auto" height="auto"/></a>
+
 
