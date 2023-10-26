@@ -62,6 +62,6 @@ Realizar el siguiente laboratorio durante la clase de hoy , en un PDF documentar
   - DB->MariaDB
   - ProxyWeb->Squid
   - Dns->Bind9
-<a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/Servidores.png" target="_blank"> <img src="/Servidores.png" width="auto" height="auto"/></a>
+<a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Installacion%20Servidores.png" target="_blank"> <img src="/Installacion%20Servidores.png" width="auto" height="auto"/></a>
 
 
