@@ -56,7 +56,7 @@ Realizar el siguiente laboratorio durante la clase de hoy , en un PDF documentar
 > <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Tarea%20%23997.pdf" target="_blank"> PDF </a>
 
 #####  Tarea #986  
--    Servidores
+ Servidores
   - SSH->Open SSh
   - Web->Apache
   - DB->MariaDB
