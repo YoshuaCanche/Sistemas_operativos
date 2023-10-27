@@ -29,9 +29,10 @@ Tarea #995 Crear un gif que explique algún concepto, relacionado al curso, que 
 
 <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Debian.pnghttps://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Gif%20concepto.gif)https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Gif%20concepto.gif" target="_blank"> <img src="/Gif%20concepto.gif"/></a>  |
 ____________________________
-##  Tarea 993   Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt
-https://github.com/YoshuaCanche/Sistemas_operativos/blob/71de25ca2f1980f35fb114223f30ce96e1665484/Nivelesbandit.txt#L1-L4
->[!IMPORTANT]
+##  Tarea 993  
+Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt
+https://github.com/YoshuaCanche/Sistemas_operativos/blob/71de25ca2f1980f35fb114223f30ce96e1665484/Nivelesbandit.txtL1-L4
+> [!IMPORTANT]
 > Comandos Utilizados de 
 > <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Nivelesbandit.txt" target="_blank"> bandit 1-34 </a>
 _____________________________
