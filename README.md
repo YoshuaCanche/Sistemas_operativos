@@ -34,7 +34,7 @@ ____________________________
 https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Nivelesbandit.txt4
 > [!IMPORTANT]
 > Comandos Utilizados de 
-> <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Nivelesbandit.txt" target="_blank"> bandit 1-34 </a>
+> <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Nivelesbandit.txt" target="_blank"> bandit 1-34 <img src="/Gif%20concepto.gif"/></a> 
 
 _____________________________
 #####  Tarea 991 
