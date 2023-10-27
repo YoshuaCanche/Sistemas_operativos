@@ -29,13 +29,12 @@ Tarea #995 Crear un gif que explique algún concepto, relacionado al curso, que 
 
 <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Debian.pnghttps://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Gif%20concepto.gif)https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Gif%20concepto.gif" target="_blank"> <img src="/Gif%20concepto.gif"/></a>  |
 ____________________________
-#####  Tarea 993  💻
+#####  Tarea 993  
 -  Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt
-https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Nivelesbandit.txt4
+https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/comandosbandit1-34.txt#L1-L4
 > [!IMPORTANT]
 > Comandos Utilizados de 
-> <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Nivelesbandit.txt" target="_blank"> bandit 1-34 <img src="/Gif%20concepto.gif"/></a> 
-
+> <a href="https://github.com/JhonKing4/TareasSistemasOperativos/blob/main/comandosbandit1-34.txt" target="_blank"> bandit 1-34 </a>
 _____________________________
 #####  Tarea 991 
 Realizar los rooms de Linux Fundamentals de tryhackme https://tryhackme.com/room/linuxfundamentalspart1  los 3 rooms, solo los que sean gratis.
