@@ -63,5 +63,7 @@ Realizar el siguiente laboratorio durante la clase de hoy , en un PDF documentar
   - ProxyWeb->Squid
   - Dns->Bind9
 <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Installacion%20Servidores.png" target="_blank"> <img src="/Installacion%20Servidores.png" width="auto" height="auto"/></a>
+<a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/bind9.jpeg" target="_blank"> <img src="/bind9.jpeg" width="auto" height="auto"/></a>
+
 
 
