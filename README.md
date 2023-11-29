@@ -50,7 +50,7 @@ _______________
 
 #####  Tarea 990  
 - [x] Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python, pueden usar cualquier lenguaje https://youtu.be/jAvAacuWlwo?si=hIdlSOjfBCbWtFzH
-       https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/jail.py#L3-L14
+       https://github.com/YoshuaCanche/Sistemas_operativos/blob/af4d872f607b515c348fd697e800510292135a80/jail.py#L3-L14
 _______________________
 
 #####  Tarea 989 
