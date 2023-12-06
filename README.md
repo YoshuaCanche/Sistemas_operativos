@@ -88,5 +88,6 @@ Entregar para fin de cuatrimestre. Subir evidencia a su repositorio de GitHub
   - DB->MariaDB
   - ProxyWeb->Squid
   - Dns->Bind9
+    ![Servidores](https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/ServidoresParte2.png)
 <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Installacion%20Servidores.png" target="_blank"> <img src="/Installacion%20Servidores.png" width="auto" height="auto"/></a>
 
