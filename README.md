@@ -4,7 +4,7 @@ en el comienzo hasta el fin del cuatrimestre de la materia sistemas operativos
 
 Alumno Yoshua Leonardo Canche Ucan
 ___________________________
-##Tarea #998
+Tarea #998
 
 -Instalar VirtualBox Y alguna distribucion de Linux
 
@@ -30,7 +30,7 @@ Tarea #995 Crear un gif que explique algún concepto, relacionado al curso, que 
 
 <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Debian.pnghttps://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Gif%20concepto.gif)https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Gif%20concepto.gif" target="_blank"> <img src="/Gif%20concepto.gif"/></a>  |
 ____________________________
-Tarea #994  
+ Tarea #994  
 -  Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf
   - [Archivo menu](./18_scripts_Clase/menu.sh)
 ________________________
