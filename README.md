@@ -74,7 +74,9 @@ Realizar el siguiente laboratorio durante la clase de hoy , en un PDF documentar
 > [!IMPORTANT]
 > <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Tarea%20%23997.pdf" target="_blank"> PDF </a>
 
-Tarea #986  
+Tarea #986
+Realizar la instalación de los servicios de red en el servidor Linux (web, dB, DNS, proxy, VPN, FTP)
+Entregar para fin de cuatrimestre. Subir evidencia a su repositorio de GitHub
  Servidores
   - SSH->Open SSh
   - Web->Apache
@@ -82,7 +84,6 @@ Tarea #986
   - ProxyWeb->Squid
   - Dns->Bind9
 <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Installacion%20Servidores.png" target="_blank"> <img src="/Installacion%20Servidores.png" width="auto" height="auto"/></a>
-<a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/bind9.jpeg" target="_blank"> <img src="/bind9.jpeg" width="auto" height="auto"/></a>
 <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/ServidoresParte2.png " target="_blank"> <img src="/ServidoresParte2" width="auto" height="auto"/></a>
 
 
