@@ -4,15 +4,11 @@ en el comienzo hasta el fin del cuatrimestre de la materia sistemas operativos
 
 Alumno Yoshua Leonardo Canche Ucan
 ___________________________
-Tarea #998
-
--Instalar VirtualBox Y alguna distribucion de Linux
-
+Tarea #998 -Instalar VirtualBox Y alguna distribucion de Linux
 (Distribucion instalada Debian)
 <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Debian.png" target="_blank"> <img src="/Debian.png"/></a>  |
 _____________________________________________
 Tarea #997
-
 -Realizar los niveles gratuitos de vim adventures
 <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/VIM%20ADVENTURES.jpeg" target="_blank"> <img src="/VIM%20ADVENTURES.jpeg"/></a>  |
 __________________________________________
@@ -27,7 +23,6 @@ ______________________________________
 > 
 __________________________________________________________
 Tarea #995 Crear un gif que explique algún concepto, relacionado al curso, que hayas aprendido. 
-
 <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Debian.pnghttps://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Gif%20concepto.gif)https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Gif%20concepto.gif" target="_blank"> <img src="/Gif%20concepto.gif"/></a>  |
 ____________________________
  Tarea #994  
@@ -48,8 +43,7 @@ Realizar los rooms de Linux Fundamentals de tryhackme https://tryhackme.com/room
 | <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Linux.jpg" target="_blank"> <img src="/Linux.jpg" width="auto" height="auto"/></a> | <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Roomsactividad.png" target="_blank"> <img src="/Roomsactividad.png" width="auto" height="auto"/></a> |  
 _______________
 
-Tarea #990  
--  Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python, pueden usar cualquier lenguaje https://youtu.be/jAvAacuWlwo?si=hIdlSOjfBCbWtFzH
+Tarea #990  -  Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python, pueden usar cualquier lenguaje https://youtu.be/jAvAacuWlwo?si=hIdlSOjfBCbWtFzH
 > [!IMPORTANT]
 > 
 > <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/jail.py#L3-L14" target="_blank"> Proyecto jail</a>
