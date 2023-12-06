@@ -47,10 +47,11 @@ Realizar los rooms de Linux Fundamentals de tryhackme https://tryhackme.com/room
 _______________
 
 #####  Tarea 990  
-- [x] Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python, pueden usar cualquier lenguaje https://youtu.be/jAvAacuWlwo?si=hIdlSOjfBCbWtFzH
-
-- [ ] 
-       https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/jail.py#L3-L14
+-  Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python, pueden usar cualquier lenguaje https://youtu.be/jAvAacuWlwo?si=hIdlSOjfBCbWtFzH
+> [!IMPORTANT]
+> 
+> <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/jail.py#L3-L14" target="_blank"> Proyecto jail</a>
+      
 _______________________
 
 #####  Tarea 989 
