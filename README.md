@@ -78,12 +78,17 @@ Tarea #986
 Realizar la instalación de los servicios de red en el servidor Linux (web, dB, DNS, proxy, VPN, FTP)
 Entregar para fin de cuatrimestre. Subir evidencia a su repositorio de GitHub
  Servidores
+ ______________________________________
+> [!NOTE]
+> La foto de la instalacion segunda parte esta aqui
+>  <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/ServidoresParte2.png" target="_blank"> Imagen servidores</a> 
+> 
   - SSH->Open SSh
   - Web->Apache
   - DB->MariaDB
   - ProxyWeb->Squid
   - Dns->Bind9
 <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Installacion%20Servidores.png" target="_blank"> <img src="/Installacion%20Servidores.png" width="auto" height="auto"/></a>
-> <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/ServidoresParte2.png" target="_blank"> <img src="/ServidoresParte2" width="auto" height="auto"/></a>
+> <img src="/ServidoresParte2" width="auto" height="auto"/></a>
 
 
