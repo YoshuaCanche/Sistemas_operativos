@@ -81,7 +81,7 @@ Entregar para fin de cuatrimestre. Subir evidencia a su repositorio de GitHub
  ______________________________________
 > [!NOTE]
 > La foto de la instalacion segunda parte esta aqui
->  <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/ServidoresParte2.png" target="_blank"> Imagen servidores</a> 
+>  <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/ServidoresParte2.png" target="_blank"> servidores Parte dos</a> 
 > 
   - SSH->Open SSh
   - Web->Apache
@@ -89,6 +89,4 @@ Entregar para fin de cuatrimestre. Subir evidencia a su repositorio de GitHub
   - ProxyWeb->Squid
   - Dns->Bind9
 <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Installacion%20Servidores.png" target="_blank"> <img src="/Installacion%20Servidores.png" width="auto" height="auto"/></a>
-> <img src="/ServidoresParte2" width="auto" height="auto"/></a>
-
 
