@@ -2,19 +2,19 @@
 
 Yoshua Leonardo Canche Ucan
 ___________________________
-Tarea #998
+##Tarea #998
 
 -Instalar VirtualBox Y alguna distribucion de Linux
 
 (Distribucion instalada Debian)
 <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Debian.png" target="_blank"> <img src="/Debian.png"/></a>  |
 _____________________________________________
-Tarea #997
+#Tarea #997
 
 -Realizar los niveles gratuitos de vim adventures
 <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/VIM%20ADVENTURES.jpeg" target="_blank"> <img src="/VIM%20ADVENTURES.jpeg"/></a>  |
 __________________________________________
-Tarea #996
+#Tarea #996
  Hacer un menú en bash que permita elegir la ejecución entre el script para crear un árbol de directorios, el script de hola mundo y el script de saludo usando variables y por último la opción de salir.
 
 <a href="https://asciinema.org/a/tvlTVoWTlZTZmN3MQJiBHI2N1" target="_blank"><img src="https://asciinema.org/a/tvlTVoWTlZTZmN3MQJiBHI2N1.svg" /></a>
@@ -29,12 +29,11 @@ Tarea #995 Crear un gif que explique algún concepto, relacionado al curso, que 
 <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Debian.pnghttps://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Gif%20concepto.gif)https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Gif%20concepto.gif" target="_blank"> <img src="/Gif%20concepto.gif"/></a>  |
 ____________________________
 #####  Tarea 994  
-- [x] Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf
+-  Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf
   - [Archivo menu](./18_scripts_Clase/menu.sh)
 ________________________
 ##  Tarea 993  
 Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt
-https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Nivelesbandit.txtL1-L4
 > [!IMPORTANT]
 > Comandos Utilizados de 
 > <a href="https://github.com/YoshuaCanche/Sistemas_operativos/blob/main/Nivelesbandit.txt" target="_blank"> bandit 1-34 </a>
